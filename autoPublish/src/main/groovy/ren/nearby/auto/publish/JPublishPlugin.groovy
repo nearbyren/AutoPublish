@@ -28,8 +28,8 @@ class JPublishPlugin implements Plugin<Project> {
             Logger.i "当前组件非Android类型，跳过！"
             return
         }
-        if (!project.plugins.hasPlugin("maven-autoPublish")) {
-            project.plugins.apply("maven-autoPublish")
+        if (!project.plugins.hasPlugin("maven-publish")) {
+            project.plugins.apply("maven-publish")
         }
 
         aarInfoExt = project.extensions.create("aarInfo", AarInfoExt)
