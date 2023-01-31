@@ -120,7 +120,7 @@ class JPublishPlugin implements Plugin<Project> {
     private static void printPublishTaskResult(AarInfoExt aarInfoExt, Project project) {
         project.tasks.whenTaskAdded { Task task ->
             def taskName = task.name.replaceAll(":${project.name}:", "")
-            if ((taskName.startsWith("autoPublish") && taskName.endsWith("Repository"))) {
+            if ((taskName.startsWith("publish") && taskName.endsWith("Repository"))) {
                 task.doLast {
                     def aarVersion = aarInfoExt.version
                     def aarArtifactId = aarInfoExt.artifactId
