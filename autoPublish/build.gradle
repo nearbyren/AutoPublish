@@ -1,0 +1,13 @@
+apply plugin: 'groovy'
+
+// 执行 ./gradlew :autoPublish:publishReleasePublicationToMavenRepository
+
+dependencies {
+    compile gradleApi()
+    compile localGroovy()
+    compileOnly 'com.android.tools.build:gradle:4.2.2'
+    compileOnly 'com.android.tools.build:gradle-api:4.2.2'
+}
+
+sourceCompatibility = "1.8"
+targetCompatibility = "1.8"
