@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7.1",
-      "buildId": "l7j6pvtalzgblbsqqejjb2myqm"
+      "buildId": "fnjfeytadnc4veblqrbudwrybu"
     }
   },
   "variants": [
@@ -28,11 +28,11 @@
         {
           "name": "autoPublish-0.0.1.jar",
           "url": "autoPublish-0.0.1.jar",
-          "size": 37068,
-          "sha512": "b383a4f129b167e9da0f200fc0381b9520ada3efd7bb1990fa08e8a52a21a4beb54457c642456fa209356186375bc66803e39739a4b51bf5c9fcd024f9473374",
-          "sha256": "0c39b81c95d49fe6e9d71a7419d39c93a8537afe1aff9eddb9d44593b2ab21a7",
-          "sha1": "f9817e63bbad0c92cecbf4676d5b94c08d1d6c01",
-          "md5": "012e58cf7fff561c2fcfd3304fc90f1f"
+          "size": 37127,
+          "sha512": "83f12c0037988ff967658e506f9078fb0dbbfe2a32cfa89f64c4ca3c0fb06d2c899a4d948f1f45bdd86482ca47ff5031fdd40ae3c4e3ff0c24f6028f590ccc4e",
+          "sha256": "bb41f3a36e44a0a08d9ef57b87254274bc34336d0f1a5cc2d1fe17b8d8f04b98",
+          "sha1": "a76eb1e14cf1fbdef2b3ffe20303eff54a9e9ad0",
+          "md5": "42ea3aa016b08761b107ce32c316e9c4"
         }
       ]
     },
@@ -49,11 +49,11 @@
         {
           "name": "autoPublish-0.0.1.jar",
           "url": "autoPublish-0.0.1.jar",
-          "size": 37068,
-          "sha512": "b383a4f129b167e9da0f200fc0381b9520ada3efd7bb1990fa08e8a52a21a4beb54457c642456fa209356186375bc66803e39739a4b51bf5c9fcd024f9473374",
-          "sha256": "0c39b81c95d49fe6e9d71a7419d39c93a8537afe1aff9eddb9d44593b2ab21a7",
-          "sha1": "f9817e63bbad0c92cecbf4676d5b94c08d1d6c01",
-          "md5": "012e58cf7fff561c2fcfd3304fc90f1f"
+          "size": 37127,
+          "sha512": "83f12c0037988ff967658e506f9078fb0dbbfe2a32cfa89f64c4ca3c0fb06d2c899a4d948f1f45bdd86482ca47ff5031fdd40ae3c4e3ff0c24f6028f590ccc4e",
+          "sha256": "bb41f3a36e44a0a08d9ef57b87254274bc34336d0f1a5cc2d1fe17b8d8f04b98",
+          "sha1": "a76eb1e14cf1fbdef2b3ffe20303eff54a9e9ad0",
+          "md5": "42ea3aa016b08761b107ce32c316e9c4"
         }
       ]
     },
@@ -69,11 +69,11 @@
         {
           "name": "autoPublish-0.0.1-sources.jar",
           "url": "autoPublish-0.0.1-sources.jar",
-          "size": 5170,
-          "sha512": "dfe290e71f988dfb7844ded9feb312ddec0c8536eb9867684820509af924c86271e44f3163b5fb3f0f9747e3ca97ed738b3cabb6388690e6f4b65a5da4b656df",
-          "sha256": "66e4c5d6c22ca82b023f4fec266021927de58c4f08b1696adb2279e1bfc46ed1",
-          "sha1": "c551969c941626fb126d49d56228a0c743b214f1",
-          "md5": "7b97db97bf570e62a2a1628a365902e4"
+          "size": 5184,
+          "sha512": "c79912949aab89841dfa29ac9d4312f02f02db8cba0973d4b935ab8c64a0a8e7b1388553de63f6c5dac941631b79ff27feec8987688fe818d8319e65bf7b0d63",
+          "sha256": "61b72806b51dc36208333857a2c950ba266620f81bb8e21eefff3c00dc744612",
+          "sha1": "f09fae9edd90deb528bfbfb04459150f7a0a4511",
+          "md5": "730a906c655f6032e91d78a850e0825e"
         }
       ]
     },

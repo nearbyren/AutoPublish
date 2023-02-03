@@ -74,3 +74,11 @@ MAVEN_PASSWORD=Your-Private-Maven-Repository-Password
 [Github地址](https://github.com/nearbyren/AutoPublish)
 
 [JitPack发布地址](https://jitpack.io/#nearbyren/AutoPublish)
+
+
+
+### 本地插件引用方式
+
+- 在settings.gradle配置引用插件 :autoPublish 在根build.gradle配置引用插件   classpath project(":autoPublish")  
+
+通过配置 IDE Configuration  创建 Remote 类型 Configuration：
